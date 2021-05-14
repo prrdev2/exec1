@@ -1,5 +1,6 @@
 site_name: "xyz"
-site_description: "abc"
+site_description: "abc1111"
+docs_dir: "/usr/src/app"
 
 nav:
   - Introduction: index.md

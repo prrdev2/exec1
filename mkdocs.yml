@@ -4,6 +4,7 @@ site_description: "abc"
 nav:
   - Introduction: index.md
   - NAV23: index.md
+  - NAV24: index.md
 
 plugins:
   - techdocs-core

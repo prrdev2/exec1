@@ -2,6 +2,8 @@
 
 ------------------------ hello im edited
 
+edited^2
+
 <a href="c2h.se">testing</a>
 <s>HTMLHMTL</s>
 
